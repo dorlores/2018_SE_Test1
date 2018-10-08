@@ -1,7 +1,6 @@
 # 2018_SE_Test1
-The first test for the SE 2018
 
-###This program mainly talked about the process of how to open a JPG and then write into the TIF. 
+### This program mainly talked about the process of how to open a JPG and then write into the TIF. 
 
 The main code is saved in the **first_demo.cpp**, and the config files consists the head file **gdal_priv.h**, the source file **gdal_i.lib**, the dynamic link library **gdal18.dll** and the picture **trees.jpg**. you can use these files to run the program on the **visual studio 2017**.
 
@@ -19,4 +18,4 @@ and open the TIF file:
 
 ![](https://i.imgur.com/TjJjbJx.jpg)
 
-###**Good Luck!**
+### **Good Luck!**
