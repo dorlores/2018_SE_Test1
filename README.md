@@ -1,4 +1,4 @@
-# 2018_SE_Test1
+# 2018_SE_Test
 
 ### This program mainly talked about the process of how to open a JPG and then write into the TIF. 
 
