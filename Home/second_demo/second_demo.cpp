@@ -11,7 +11,7 @@
 
 using namespace std;
 
-int main_second_demo() {
+int main() {
 
 	const char *srcPath = "./test1.jpg";        //输入图像路径
 	const char *dstPath = "./res1.tif";         //输出图像路径
